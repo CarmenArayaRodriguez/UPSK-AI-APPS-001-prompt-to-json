@@ -24,7 +24,7 @@ La Inteligencia Artificial Generativa (IA Generativa) es una rama de la IA que
 se centra en crear sistemas capaces de generar contenido nuevo y original, como
 imágenes, música o texto, imitando patrones y estilos previamente aprendidos.
 Esto puede ser muy útil para automatizar procesos como el generar copys,
-escribir email, analizar datos, etc.
+escribir email, analizar datos, etc..
 
 Para poder explotar estas capacidades tenemos que hacer uso del “Prompt
 Engineering”, la ingeniería de promping es el proceso de diseñar y perfeccionar

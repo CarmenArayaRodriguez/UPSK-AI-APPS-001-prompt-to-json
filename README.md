@@ -44,7 +44,7 @@ que crearás para generear información extra que le sea útil al usuario,
 utilizarás la herramienta [Flowise](https://flowiseai.com/).
 
 El tema y la utilidad de tu aplicación es libre, piensa en un escenario dónde
-una usuaria puede aprovechar esta funcionalidad.
+una usuaria puede aprovechar esta funcionalidad..
 
 En este ejemplo se toma el nombre de un platillo gastronómico y a través de
 prompting se obtiene los ingredientes que lo conforman y el país de origen del

@@ -114,7 +114,7 @@ Una vez inicializada la herramienta podrás acceder [aquí](http://localhost:300
 
 Utilizarás esta herramienta para crear y configurar tu propia aplicación AI,
 la cual podrás utilizar por medio de la UI proporcionada y también a través de
-peticiones HTTP.
+peticiones HTTP..
 
 ## 8. Recursos
 
